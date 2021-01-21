@@ -25,6 +25,3 @@ Vizualize any Wallon place in 3D
 * The cropped square are saved and converted into xyz coordinates
 * Theses coordinates are finally used to plot the area in 3D
 
-# Result
-
-
